@@ -2,6 +2,8 @@
 
 SkillBridge Local is an MVP marketplace that connects small local businesses with students for clearly scoped micro tech tasks. Businesses describe a need, the scope assistant structures it, students apply, an admin confirms the match, and everyone can follow delivery status.
 
+**Live demo:** [skillbridge-local-chennai.netlify.app](https://skillbridge-local-chennai.netlify.app)
+
 The deployed product includes a persistent, no-login demo workspace so the complete workflow can be tested immediately. Supabase is used for the production-ready schema, RLS policies, and public marketplace feed. Payment stages are deliberately mock-only in this MVP.
 
 ## What is included
